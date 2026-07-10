@@ -75,8 +75,8 @@ Oui, le plugin utilise des styles CSS sobres et flexibles compatibles avec la pl
 == Crédits ==
 
 Développé avec passion par **Wadii Bounenni** – développeur WordPress & spécialiste marketing digital.  
-📧 Contact : contact@wadii-bounenni.dev 
-🌐 Site : https://wadii-bounenni.dev  
+📧 Contact : wadii.bounenni@gmail.com
+🌐 Site : https://wadii-bounenni.com
 
 == Licence ==
 
