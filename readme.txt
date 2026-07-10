@@ -6,9 +6,9 @@ Tested up to: 6.5
 Requires PHP: 7.4  
 Stable tag: 1.0.0  
 License: Proprietary  
-License URI: https://wadii-bounenni.dev  
-Plugin URI: https://wadii-bounenni.dev  
-Author URI: https://wadii-bounenni.dev  
+License URI: https://wadii-bounenni.com  
+Plugin URI: https://wadii-bounenni.com  
+Author URI: https://wadii-bounenni.com 
 Author: Wadii Bounenni  
 
 Créez des offres irrésistibles et auditez vos textes de vente grâce à l’Intelligence Artificielle – en quelques clics.
